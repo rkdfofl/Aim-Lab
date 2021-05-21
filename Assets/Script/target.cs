@@ -13,3 +13,5 @@ public class target : MonoBehaviour
         transform.Rotate(Vector3.up * spinspeed * Time.deltaTime, Space.World);
     }
 }
+
+// add
